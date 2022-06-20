@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
     <br>
  
 <p align="center" >
-<img src="https://d1fdloi71mui9q.cloudfront.net/Y69hXcuTRKail3SECmEw_LdJB93n1bI7aiBy3" height="400" width="420"></a>
+<img src="https://d1fdloi71mui9q.cloudfront.net/Y69hXcuTRKail3SECmEw_LdJB93n1bI7aiBy3" height="300" width="320"></a>
   </p>
   
   <p align="center">
