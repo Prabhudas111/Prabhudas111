@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
  - 📫reach me @<a href="https://www.linkedin.com/in/prabhudas-avanigadda-338920164" target="_blank">Prabhudas Avanigadda.</a>
     <br>
     <br>
-    <br>
  
 <p align="center" >
 <img src="https://d1fdloi71mui9q.cloudfront.net/Y69hXcuTRKail3SECmEw_LdJB93n1bI7aiBy3" height="400" width="420"></a>
