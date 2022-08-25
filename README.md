@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/prabhudas-avanigadda-338920164" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=prabhudasavanigadda9866@gmail.com&tf=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=prabhudasavanigadda9866@gmail.com&tf=1" target="_blank"><img align="center" src="https://github.com/Prabhudas111/Assignment-1/blob/60c7b316c5c54b35727f266e8449b7ae2974cf02/gmail-svgrepo-com%20(2).svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prabhudas.avanigadda.3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 </div>
