@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
   
 
 <h1 align="center">Hi 👋, I'm  <strong>  Prabhudas Avanigadda </strong> </h1>
-<h3 align="center">A passionate  <strong> Web Developer </strong> </h3>
+<h3 align="center">A passionate  <strong> Full stack Developer </strong> </h3>
 
 <p align="center" >
 <img src="https://d1fdloi71mui9q.cloudfront.net/Y69hXcuTRKail3SECmEw_LdJB93n1bI7aiBy3" height="300" width="320"></a>
