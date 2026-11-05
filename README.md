@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Prabhudas Avanigadda: backend engineer, founder of Proto.Engineer" width="880">
+  <img src="assets/banner.svg" alt="Prabhudas Avanigadda: backend engineer, founder of MoveTara, Tatvata and Proto.Engineer" width="880">
 </p>
 
 <p align="center">
@@ -8,30 +8,40 @@
 
 ## About me
 
-- **Backend engineer.** I design and build distributed systems: APIs, data stores, queues, and the reliability work around them.
-- **Founder of [Proto.Engineer](https://www.proto-engineer.com).** A place to learn engineering the builder way: system design, DSA, backend and low-level design, taught from first principles.
-- **Builder of [protolift](https://github.com/Prabhudas111/protolift).** A free, open-source CLI that runs your whole dev stack in your own AWS or Google Cloud account and serves it on localhost.
-- **Education.** B.Tech in Computer Science, NIT Silchar.
+I build backends that stay correct when the traffic, the failures and the money are real.
 
-## What I am building
+- **Founder of [MoveTara](https://www.movetara.com).** The brain for running a PG or accommodation business: rent, bookings, payments, KYC and staff in one system.
+- **Founder of Tatvata.** A creator identity and brand partnership platform.
+- **Founder of [Proto.Engineer](https://www.proto-engineer.com).** Engineering courses in system design, DSA, backend and low-level design.
+- **Builder of [protolift](https://github.com/Prabhudas111/protolift).** An open-source Go CLI that runs your dev stack in your own AWS or Google Cloud account and serves it on localhost.
+- **B.Tech in Computer Science, NIT Silchar.** 1400+ DSA problems solved.
 
-| Project | What it is |
+## Backend, end to end
+
+| Layer | What I build |
 |---|---|
-| [**protolift**](https://github.com/Prabhudas111/protolift) | Run your dev stack in your own cloud account, use it on localhost. Live file sync, same ports, budgets, an MCP server for AI coding tools. Apache-2.0. |
-| [**Proto.Engineer**](https://www.proto-engineer.com) | Engineering courses with System Design Universe (lessons in 3D) and a free DSA course. |
+| **Services** | Go and Java (Spring Boot). Modular monoliths and microservices with clear boundaries, versioned REST APIs, OpenAPI contracts. |
+| **Data** | PostgreSQL schema design, safe migrations, transactions, row-level security, reconciliation jobs. |
+| **Distributed systems** | Fan-out and aggregation, Kafka pipelines, idempotent webhooks, retries with timeouts, deduplication. |
+| **Money and identity** | Payment gateway integration, phone OTP login, JWT sessions, KYC, access control driven by data. |
+| **Cloud and delivery** | AWS and GCP, Docker, Kubernetes, CI/CD, blue-green releases with rollback. |
+| **Reliability** | Logs, metrics and alerts, production debugging, cost control. |
+
+I like hard backend problems. If you have one, write to me.
 
 ## Tools I work with
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
 </p>
 
